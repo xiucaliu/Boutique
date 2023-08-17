@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/nhatphat112/boutique
+[submodule "backend"]
+	path = backend
+	url = https://github.com/nhatphat112/be_boutique
